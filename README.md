@@ -1,5 +1,8 @@
 # React-Webpack-Starter
 Basic react webpack starter with a bootstrap css file
 
-<code>npm run build</code>
-<code>npm run start</code>
+```
+npm install
+npm run build
+npm run start
+```
